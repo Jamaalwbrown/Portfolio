@@ -1908,6 +1908,12 @@ input, select, textarea {
 				margin-left: 0;
 			}
 
+				.bot-check {
+					display: flex;
+					justify-content: space-evenly;
+				} 
+
+
 /* Box */
 
 	.box {
@@ -2342,6 +2348,11 @@ input, select, textarea {
 					ul.actions li:first-child {
 						margin-top: 0;
 					}
+
+						.bot-check{
+							display: flex;
+							justify-content: space-evenly;
+						}
 
 		/* Box */
 
