@@ -2346,7 +2346,7 @@ input, select, textarea {
 				}
 
 					ul.actions li:first-child {
-						margin-top: 0;
+						margin-top: 15px;
 					}
 
 						.bot-check{
@@ -2399,8 +2399,8 @@ input, select, textarea {
 		/* Nav */
 
 			#nav {
-				height: 44px;
-				line-height: 44px;
+				height: 64px;
+				line-height: 32px;
 			}
 
 				#nav a {
